@@ -1,0 +1,68 @@
+[
+  {
+    "placeImage": "images/hawkers.jpg",
+    "placeName": "The Hawkers",
+    "placeItems": ["Burgers", "Chinese", "Fast Food", "Italian", "Juice", "Noodles", "Salads", "Tacos", "Sandwiches"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/flipping.jpg",
+    "placeName": "Flipping Noodles",
+    "placeItems": ["Burgers", "Chinese", "Fast Food", "Italian", "Juice", "Pasta", "Spring Rolls", "Wontons", "Fried Rice"],
+    "minOrder": 50
+  },
+  {
+    "placeImage": "images/pizzahut.jpg",
+    "placeName": "Pizza Hut",
+    "placeItems": ["Pizza", "Chinese", "Fast Food", "Italian", "Juice", "Pasta", "Garlic Bread", "Salad", "Desserts"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/bluehill.jpg",
+    "placeName": "Blue Hill",
+    "placeItems": ["Burgers", "Chinese", "Fast Food", "Italian", "Juice", "Steaks", "Seafood", "Grilled Vegetables", "Sushi"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/tacobell.jpg",
+    "placeName": "Taco Bell",
+    "placeItems": ["Tacos", "Burritos", "Nachos", "Quesadillas", "Chalupas", "Salsa", "Mexican Rice"],
+    "minOrder": 15
+  },
+  {
+    "placeImage": "images/sushiplace.jpg",
+    "placeName": "Sushi Place",
+    "placeItems": ["Sushi", "Sashimi", "Tempura", "Miso Soup", "Edamame", "Ramen", "Noodle Bowls", "Bento Boxes"],
+    "minOrder": 25
+  },
+  {
+    "placeImage": "images/cafecoffeeday.jpg",
+    "placeName": "Cafe Coffee Day",
+    "placeItems": ["Coffee", "Sandwiches", "Pastries", "Cakes", "Wraps", "Smoothies", "Salads"],
+    "minOrder": 10
+  },
+  {
+    "placeImage": "images/indianspice.jpg",
+    "placeName": "Indian Spice",
+    "placeItems": ["Curry", "Naan", "Biryani", "Samosas", "Paneer Tikka", "Chaat", "Lassi", "Kebabs"],
+    "minOrder": 30
+  },
+  {
+    "placeImage": "images/icecreamparlor.jpg",
+    "placeName": "Ice Cream Parlor",
+    "placeItems": ["Ice Cream", "Sundaes", "Milkshakes", "Frozen Yogurt", "Sorbet", "Toppings", "Waffles"],
+    "minOrder": 5
+  },
+  {
+    "placeImage": "images/healthybites.jpg",
+    "placeName": "Healthy Bites",
+    "placeItems": ["Salads", "Smoothie Bowls", "Grain Bowls", "Vegan Burgers", "Wraps", "Juices", "Soups"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/steakhouse.jpg",
+    "placeName": "Steakhouse",
+    "placeItems": ["Steaks", "Grilled Chicken", "Seafood", "Salads", "Burgers", "Sides", "Desserts"],
+    "minOrder": 60
+  }
+]
